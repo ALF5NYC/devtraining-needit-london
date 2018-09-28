@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Stolen Hardware</description>
+        <internal_name>stolen_hardware</internal_name>
+        <label_cache>[{"name":"90e5f257-34a6-418f-aa5f-b46e499f15ca.record","label":"1➛Hardware Record","reference":"alm_hardware","reference_display":"Hardware Record","type":"reference","base_type":"reference"},{"name":"90e5f257-34a6-418f-aa5f-b46e499f15ca.table_name","label":"1➛Hardware Table","reference":"alm_hardware","reference_display":"Hardware Table","type":"table_name","base_type":"table_name"},{"name":"c344f7d1-61b4-4566-a118-41d096c19b13.email","label":"2➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference"},{"name":"Service Catalog_1.table_name","label":"Trigger➛Table Name","type":"table_name","base_type":"table_name"},{"name":"90e5f257-34a6-418f-aa5f-b46e499f15ca.record.assigned_to.email","label":"1➛Hardware Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Stolen Hardware</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-27 14:25:50</sys_created_on>
+        <sys_id>ec13e07ddb302300f6529235ca96192d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Stolen Hardware</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_ec13e07ddb302300f6529235ca96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-27 14:50:00</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=ec13e07ddb302300f6529235ca96192d"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ec13e07ddb302300f6529235ca96192d"/>
+</record_update>
